@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eddy Oliveira</h1>
-<h3 align="center">Developer from Brazil<BR>Since 2015</h3>
+<h3 align="center">PHP/Laravel developer</h3>
+<h4 align="center">Since 2015</h3>
 
-<img src="https://raw.githubusercontent.com/eddyoliveiram/eddyoliveiram/master/laravel_php.png" width="600px" data-canonical-src="https://images.unsplash.com/photo-1708086504310-134d8c4005f3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTcxMDk4MTAxNXw&amp;ixlib=rb-4.0.3&amp;q=80&amp;w=1080" style="max-width: 100%;">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eddyoliveiram/eddyoliveiram/master/laravel_php.png" width="600px" style="max-width: 100%;">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <div style="text-align: center;">
