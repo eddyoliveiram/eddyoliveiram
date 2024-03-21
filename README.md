@@ -1,7 +1,12 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eddy Oliveira</h1>
-<h3 align="center">PHP/Laravel developer</h3>
-<h4 align="center">Since 2015</h3>
+<h3 align="center">In the PHP universe, I'm a Laravel explorer</h3>
 
+- 🔥 Sênior PHP Developer
+
+- ▶️ I've posted some videos on [@eddyoliveira](youtube.com/eddyoliveiram)
+
+- 💬 Ask me about **PHP, Laravel, Blade, Tailwindcss, JavaScript, HTML, CSS, SQL**
+  
 <div align="center">
   <img src="https://raw.githubusercontent.com/eddyoliveiram/eddyoliveiram/master/laravel_php.png" width="600px" style="max-width: 100%;">
 </div>
