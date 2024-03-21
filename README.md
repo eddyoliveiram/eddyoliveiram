@@ -3,9 +3,9 @@
 
 - 🔥 Sênior PHP Developer
 
-- ▶️ I've posted some videos on [@eddyoliveira](youtube.com/eddyoliveiram)
-
-- 💬 Ask me about **PHP, Laravel, Blade, Tailwindcss, JavaScript, HTML, CSS, SQL**
+- ▶️ I've got some videos on [@eddyoliveira](youtube.com/eddyoliveiram) about some of my $hobbies = [ ['guitar'](https://www.youtube.com/watch?v=in4KsYpVnjE&list=PLZDWbS5yLEbcFsAXaH0WSyUmxIdbFEgcv&index=27), ['handstand'](https://www.youtube.com/watch?v=VNMLCUui4_o&list=PLZDWbS5yLEbfbfK_krb8rzhXBk0jpaL4l&index=4)];
+- And also teaching some [basic tutorials](https://www.youtube.com/watch?v=EqyMS_hr6as&list=PLZDWbS5yLEbdc_JM-choZ_wZFdkZUx9Mn) about coding.
+- 💬 Ask me about **PHP, Laravel, Blade, Tailwindcss, JavaScript, HTML, CSS, SQL.**
   
 <div align="center">
   <img src="https://raw.githubusercontent.com/eddyoliveiram/eddyoliveiram/master/laravel_php.png" width="600px" style="max-width: 100%;">
