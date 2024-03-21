@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eddy Oliveira</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-
+<img src="https://camo.githubusercontent.com/60007c58ef51e2320086c1d163cd48d64351bd523e622dad6d24c0b933199c7d/68747470733a2f2f696d616765732e756e73706c6173682e636f6d2f70686f746f2d313730383038363530343331302d3133346438633430303566333f63726f703d656e74726f70792663733d74696e7973726762266669743d6d617826666d3d6a706726697869643d4d3377334e7a55774f48777766444638636d46755a4739746648783866487838664878384d5463784d446b344d5441784e58772669786c69623d72622d342e302e3326713d383026773d31303830" width="600px" data-canonical-src="https://images.unsplash.com/photo-1708086504310-134d8c4005f3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTcxMDk4MTAxNXw&amp;ixlib=rb-4.0.3&amp;q=80&amp;w=1080" style="max-width: 100%;">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
