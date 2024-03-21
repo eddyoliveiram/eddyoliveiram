@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eddy Oliveira</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eddy Oliveira</h1>
 <h3 align="center">PHP/Laravel developer</h3>
 <h4 align="center">Since 2015</h3>
 
