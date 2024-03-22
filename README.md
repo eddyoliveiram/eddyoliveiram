@@ -1,11 +1,11 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eddy Oliveira</h1>
-<h3 align="center">In the PHP universe, I'm a Laravel explorer</h3>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eddy Oliveira 👨🏻‍💻</h1>
+<h3 align="center">In the PHP universe 🌌 I'm a Laravel explorer 🚀❤️</h3>
 
 - 🔥 Senior PHP Developer
 
-- ▶️ I've got some videos on [@eddyoliveira](youtube.com/eddyoliveiram) about some of my **$hobbies = [ ['@guitar covers'](https://www.youtube.com/watch?v=in4KsYpVnjE&list=PLZDWbS5yLEbcFsAXaH0WSyUmxIdbFEgcv&index=27) , ['@handstand'](https://www.youtube.com/watch?v=VNMLCUui4_o&list=PLZDWbS5yLEbfbfK_krb8rzhXBk0jpaL4l&index=4) ]**;
-- And also teaching some [@basic tutorials](https://www.youtube.com/watch?v=EqyMS_hr6as&list=PLZDWbS5yLEbdc_JM-choZ_wZFdkZUx9Mn) about coding.
-- 💬 Ask me about **PHP, Laravel, Blade, Tailwindcss, JavaScript, HTML, CSS, SQL.**
+- ▶️ I've got some videos on [@eddyoliveira](youtube.com/eddyoliveiram) about some of my **$hobbies = [ ['@guitar covers 🎸'](https://www.youtube.com/watch?v=in4KsYpVnjE&list=PLZDWbS5yLEbcFsAXaH0WSyUmxIdbFEgcv&index=27) , ['@handstand 🤸'](https://www.youtube.com/watch?v=VNMLCUui4_o&list=PLZDWbS5yLEbfbfK_krb8rzhXBk0jpaL4l&index=4) ]**;
+- 👨‍🏫 And also teaching some [@basic tutorials](https://www.youtube.com/watch?v=EqyMS_hr6as&list=PLZDWbS5yLEbdc_JM-choZ_wZFdkZUx9Mn) about coding.
+- 💬 Ask me about **PHP, Laravel, Blade, Tailwindcss, JavaScript, HTML, CSS, SQL and more...**
   
 <div align="center">
   <img src="https://raw.githubusercontent.com/eddyoliveiram/eddyoliveiram/master/laravel_php.png" width="600px" style="max-width: 100%;">
