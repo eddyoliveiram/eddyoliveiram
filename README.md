@@ -1,7 +1,8 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/eddyoliveiram/eddyoliveiram/master/laravel_php_v.png"/>
+<!--<img align="right" height="590em" src="https://raw.githubusercontent.com/eddyoliveiram/eddyoliveiram/master/laravel_php_v.png"/>-->
+<hr>
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eddy Oliveira 👨🏻‍💻</h1>
 <h3 align="center">- In the PHP universe, I'm proud to be a Laravel explorer 🚀❤️🌌 -</h3>
-<BR>
+<hr>
 
 ▶️ I've got some videos on [@eddyoliveira](https://www.youtube.com/@eddyoliveiram) teaching some [@basic tutorials](https://www.youtube.com/watch?v=t2TWm6oexps&list=PLZDWbS5yLEbdc_JM-choZ_wZFdkZUx9Mn&index=6) about coding.
 
@@ -9,7 +10,9 @@
 
 💬 Ask me about **PHP, Laravel, Blade, Tailwindcss, JavaScript, HTML5, CSS, SQL and much more...**
   
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eddyoliveiram/eddyoliveiram/master/laravel_php.png" width="600px" style="max-width: 100%;">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <div style="text-align: center;">
