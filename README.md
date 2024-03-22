@@ -2,7 +2,7 @@
 <h3 align="center">In the PHP universe, I'm proud to be a Laravel explorer 🚀❤️🌌</h3>
 <BR>
 
-▶️ I've got some videos on [@eddyoliveira](youtube.com/eddyoliveiram) teaching some [@basic tutorials](https://www.youtube.com/watch?v=t2TWm6oexps&list=PLZDWbS5yLEbdc_JM-choZ_wZFdkZUx9Mn&index=6) about coding.
+▶️ I've got some videos on [@eddyoliveira](https://www.youtube.com/@eddyoliveiram) teaching some [@basic tutorials](https://www.youtube.com/watch?v=t2TWm6oexps&list=PLZDWbS5yLEbdc_JM-choZ_wZFdkZUx9Mn&index=6) about coding.
 
 🎬 And also playlists about my **$hobbies = [ ['@guitar covers 🎸'](https://www.youtube.com/watch?v=in4KsYpVnjE&list=PLZDWbS5yLEbcFsAXaH0WSyUmxIdbFEgcv&index=27) , ['@handstand 🤸'](https://www.youtube.com/watch?v=VNMLCUui4_o&list=PLZDWbS5yLEbfbfK_krb8rzhXBk0jpaL4l&index=4) ]**;
 
