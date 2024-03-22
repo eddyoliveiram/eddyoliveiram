@@ -1,5 +1,5 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eddy Oliveira 👨🏻‍💻</h1>
-<h3 align="center">In the PHP universe, I'm proud to be a Laravel explorer 🚀❤️🌌</h3>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eddy Oliveira 👨🏻‍💻</h1>
+<h3 align="center">- In the PHP universe, I'm proud to be a Laravel explorer 🚀❤️🌌 -</h3>
 <BR>
 
 ▶️ I've got some videos on [@eddyoliveira](https://www.youtube.com/@eddyoliveiram) teaching some [@basic tutorials](https://www.youtube.com/watch?v=t2TWm6oexps&list=PLZDWbS5yLEbdc_JM-choZ_wZFdkZUx9Mn&index=6) about coding.
