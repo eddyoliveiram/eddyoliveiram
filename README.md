@@ -4,6 +4,8 @@
 <h3 align="center">" In the PHP universe, I'm proud to be a Laravel explorer. 🚀❤️🌌 "</h3>
 <hr>
 
+🏆 Over 9 years of experience in object-oriented PHP with MVC frameworks.
+
   ▶️ I've got some videos on [@eddyoliveira](https://www.youtube.com/@eddyoliveiram) teaching some [@basic tutorials](https://www.youtube.com/watch?v=t2TWm6oexps&list=PLZDWbS5yLEbdc_JM-choZ_wZFdkZUx9Mn&index=6) about coding.
 
 
