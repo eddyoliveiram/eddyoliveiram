@@ -1,8 +1,7 @@
 <!--<img align="right" height="590em" src="https://raw.githubusercontent.com/eddyoliveiram/eddyoliveiram/master/laravel_php_v.png"/>-->
-<hr>
+
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eddy Oliveira.</h1>
-<h3 align="center">" In the PHP universe, I'm proud to be a Laravel explorer. 🚀❤️🌌 "</h3>
-<hr>
+
 
 🏆 Over 9 years of experience in object-oriented PHP with MVC frameworks.
 
